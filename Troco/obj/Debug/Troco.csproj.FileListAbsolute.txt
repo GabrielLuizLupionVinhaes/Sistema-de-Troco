@@ -1,0 +1,10 @@
+C:\projetos(senai)\Troco\bin\Debug\Troco.exe.config
+C:\projetos(senai)\Troco\bin\Debug\Troco.exe
+C:\projetos(senai)\Troco\bin\Debug\Troco.pdb
+C:\projetos(senai)\Troco\obj\Debug\Troco.csprojAssemblyReference.cache
+C:\projetos(senai)\Troco\obj\Debug\Troco.Properties.Resources.resources
+C:\projetos(senai)\Troco\obj\Debug\Troco.csproj.GenerateResource.cache
+C:\projetos(senai)\Troco\obj\Debug\Troco.csproj.CoreCompileInputs.cache
+C:\projetos(senai)\Troco\obj\Debug\Troco.exe
+C:\projetos(senai)\Troco\obj\Debug\Troco.pdb
+C:\projetos(senai)\Troco\obj\Debug\Troco.FrmST.resources
